@@ -144,3 +144,11 @@ body {
 .todo-add:active {
 	opacity: 0.5;
 }
+.warning{
+	color: red;
+	font-size: 30px;
+	font-weight: 700;
+}
+.warningButton {
+	background-color: #a3b1ce;
+}
